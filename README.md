@@ -6,7 +6,7 @@ A desktop application for managing a smart library system built with Python, Cus
 
 - 📊 **Dashboard** — View total books, members, and borrowed books
 - 📕 **Borrow System** — Borrow books by member ID and book ID
-- ⭐ **Reviews** — Add reviews and view top rated books
+- ⭐ **Reviews** — Add reviews and view top-rated books
 - 🔍 **Smart Search** — Search books by title, author, or genre
 
 ## 🛠️ Tech Stack
@@ -31,9 +31,3 @@ A desktop application for managing a smart library system built with Python, Cus
    Run `sql/smartlibraryDB.sql` in MySQL Workbench
 5. Run the app:
    python main.py
-
-│   └── library_logic.py
-├── db/
-│   └── database.py
-└── sql/
-    └── smartlibraryDB.sql
