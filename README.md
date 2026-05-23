@@ -32,13 +32,6 @@ A desktop application for managing a smart library system built with Python, Cus
 5. Run the app:
    python main.py
 
-## 📁 Project Structure
-
-smart_library/
-├── main.py
-├── ui/
-│   └── app.py
-├── logic/
 │   └── library_logic.py
 ├── db/
 │   └── database.py
